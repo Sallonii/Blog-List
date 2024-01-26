@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.list-cont {
+  list-style-type: none;
+  width: 100%;
+  margin: 10px;
+}
+.title-date-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.hr-line {
+  color: #9aa5b1;
+  font-weight: 700;
+}
+.title {
+  font-size: 24px;
+  color: #12022f;
+}
+.description {
+  color: #9aa5b1;
+}

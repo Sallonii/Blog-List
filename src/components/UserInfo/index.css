@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.profile-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile-img {
+  height: 23vh;
+}
+.profile-name {
+  color: #12022f;
+  font-weight: 700;
+  font-size: 20px;
+}
+.description {
+  color: #616e7c;
+}
